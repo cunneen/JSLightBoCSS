@@ -1,6 +1,17 @@
 /*
- * JavaScript for progressive enhancement of lightbox.  Primarily to prevent
- * aggressive pre-loading of images (default non-JS behaviour).
+ *  Document   : JSLightBoCSS
+ *  Created on : Oct 13, 2012, 1:13:20 PM
+ *  Author     : Mike Cunneen
+ *  Description:
+ *      JavaScript for progressive enhancement of LightBoCSS.  Primarily to prevent
+ *      aggressive pre-loading of images (default non-JS behaviour).
+ *      Simple lightbox created for EggMapps app (Google Maps interface for iOS6).
+ *      http://jslightbocss.eggmaps.com/ 
+ *     
+ *  License: This work is licensed under the Creative Commons Attribution-ShareAlike 
+ *      3.0 Unported License. To view a copy of this license, visit 
+ *      http://creativecommons.org/licenses/by-sa/3.0/ .
+ *      In addition, you MUST keep this notice intact and unmodified.
  */
 // wrap everything in an object, avoiding name clashes.
 var lightBoCSS = {
